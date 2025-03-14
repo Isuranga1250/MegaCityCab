@@ -5,9 +5,10 @@ The Mega City Cab system is a Java-based car rental service that allows customer
 
 
 Technology Stack
-Frontend: HTML, CSS, Bootstrap
-Backend: Java (JSP, Servlets)
-Database: Text File Storage (No SQL Database used)
-Version Control: GitHub
+•	Web Browser – Chrome, Firefox, Microsoft Edge 
+•	Server Side Scripting Language – Java
+•	Client Side Scripting Language – HTML, CSS, JavaScript, Bootstrap 
+•	Database Management System – MySQL 
+•	IDE – Eclipse
 
-![image alt](https://github.com/Isuranga1250/MegaCityCab/blob/7d2e160dbaca2be9992e78808aed0a96522717fa/screencapture-localhost-8090-rental-index-jsp-2025-03-14-08_57_32.png)
+![image alt](https://github.com/Isuranga1250/MegaCityCab/blob/dc473e80a498e1dc2e8d35f768648df578ef9900/Screenshot%202025-03-14%20091144.png)
